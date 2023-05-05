@@ -1,15 +1,15 @@
-.item-portfolio {
+.item-Portfolio {
     display: inline-block;
     margin: 30px;
     border: 1px solid #292828;
 }
 
-.item-portfolio a{
+.item-Portfolio a{
     text-decoration: none;
     color: #292828;
 }
 
-.item-portfolio img{
+.item-Portfolio img{
     width: 350px;
     height: 320px;
 }
