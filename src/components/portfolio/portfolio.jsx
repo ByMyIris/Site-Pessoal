@@ -2,7 +2,7 @@ import React from "react";
 
 import ItemPortfolio from "../itemPortfolio/itemPortfolio";
 
-import './portfolio.css';
+import '../portfolio/portfolio.css';
 
 function Portfolio() {
 
@@ -45,4 +45,4 @@ function Portfolio() {
     )
 }
 
-export default  Portfolio;
+export default Portfolio;
