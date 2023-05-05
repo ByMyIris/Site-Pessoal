@@ -24,7 +24,7 @@ function App() {
 
       <Routes>
         <Route index element={<Curriculum />}/> 
-        <Route path='Portfolio' element={<Portfolio />}/>
+        <Route path='portfolio' element={<Portfolio />}/>
         <Route path='contact' element={<Contact />}/>
       </Routes>
     </BrowserRouter>
