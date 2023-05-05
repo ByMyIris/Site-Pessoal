@@ -8,7 +8,7 @@ import NavBar from './components/navbar/navbar';
 
 import Curriculum from './components/curriculum/curriculum';
 import Contact from './components/contact/contact';
-import Portfolio from './components/portfolio/Portfolio';
+import Portfolio from './components/portfolio/portfolio';
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
