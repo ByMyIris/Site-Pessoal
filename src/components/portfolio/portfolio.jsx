@@ -2,7 +2,7 @@ import React from "react";
 
 import ItemPortfolio from "../itemPortfolio/itemPortfolio";
 
-import '../portfolio/portfolio.css';
+import './Portfolio.css';
 
 function Portfolio() {
 
